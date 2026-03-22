@@ -22,7 +22,7 @@ Using Python (Pandas), I cleaned and prepared the dataset by handling missing va
 
 ## Files
 - `ecommerce_sales_operations_analysis.ipynb` — data cleaning and analysis
-- `clean_ecommerce_data.csv` — cleaned dataset used for dashboarding
+- `sample_clean_ecommerce_data.csv` — cleaned dataset used for dashboarding
 - `dashboard.png` — dashboard preview
 
 ## Conclusion
